@@ -17,3 +17,7 @@ https://medium.com/@NegativeMind/unityでpoint-cloudを表示する方法-12a4e2
 
 一番最初は、これがいいんじゃないかな。<br>
 unityの概要から始まり、インストールの仕方、アプリを作成するための作業を順に紹介してくれる。
+
+* [Create with VR](https://learn.unity.com/course/create-with-vr)
+
+VRについては、これが良さげ。Oculus Quest, Rift、ViveやValveについての設定から説明がある。ただし英語。
