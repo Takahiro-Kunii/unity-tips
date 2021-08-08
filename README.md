@@ -1,8 +1,5 @@
-# unity-tips
-
-色々勉強。
-何でUnityで点群を扱いたいかというと、お察しの通り、Kinectで取得した点群をカッコよく表示したいのです。
-https://medium.com/@NegativeMind/unityでpoint-cloudを表示する方法-12a4e24e0718
+# Unity Tips
+　Unity使用者によるUnity使用者のためのUnity使用者のためのリポジトリ。
 
 ## Unityとは
 * 2D,3Dゲームを作るツール
@@ -39,4 +36,5 @@ https://medium.com/@NegativeMind/unityでpoint-cloudを表示する方法-12a4e2
 
 ## 局所的な
 * [FPS Mod：Navigation Mesh の作成](https://learn.unity.com/tutorial/fps-mod-creating-the-navigation-mesh-jp)　日本語でNavMeshを解説。複雑な3D地形で障害物を避けながら自動で移動させる。
+* [unityでpoint-cloudを表示する方法](https://medium.com/@NegativeMind/unityでpoint-cloudを表示する方法-12a4e24e0718) 何でUnityで点群を扱いたいかというと、お察しの通り、Kinectで取得した点群をカッコよく表示したいのです。
 
