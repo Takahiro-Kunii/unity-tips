@@ -10,16 +10,16 @@
 　本家にチュートリアルがある。<br>
 　色々ある中で、Unity未経験者にはこれがおすすめ。
 
-|チュートリアル名|評価|
-|-|-|
-|[Create with Code - コードを使ってゲームを作ろう](https://learn.unity.com/course/create-with-code-jp)|Unityのインストール、Assetの使い方、エディタの使い方、スクリプティングを段階的に教えてくれる。|
+チュートリアル名|評価
+-|-
+[Create with Code - コードを使ってゲームを作ろう](https://learn.unity.com/course/create-with-code-jp)|Unityのインストール、Assetの使い方、エディタの使い方、スクリプティングを段階的に教えてくれる。
 
 　もうちょい局所的に攻めたい人は以下もあり。
  
-|チュートリアル名|評価|
-|-|-|
-|[リアルタイム 3D アニメーションでストーリーを伝えよう](https://learn.unity.com/course/real-time-animated-storytelling-jp?uv=2019.4)|映画のプリビズ等を手っ取り早く始めたいなら、こちらから始めるのも可。先のチュートリアルからユーザーとの対話方法を省略して、画面表現により力を入れている。こちらもUnityのインストールから始めてくれる。|
-|[Create with VR](https://learn.unity.com/course/create-with-vr)|いきなりVRで進みたい人は、これが良さげ。Oculus Quest, Rift、ViveやValveについての設定から説明がある。ただし英語。|
+傾向|チュートリアル名|評価
+-|-|-
+映画制作寄り|[リアルタイム 3D アニメーションでストーリーを伝えよう](https://learn.unity.com/course/real-time-animated-storytelling-jp?uv=2019.4)|映画のプリビズ等を手っ取り早く始めたいなら、こちらから始めるのも可。先のチュートリアルからユーザーとの対話方法を省略して、画面表現により力を入れている。こちらもUnityのインストールから始めてくれる。
+VR制作寄り|[Create with VR](https://learn.unity.com/course/create-with-vr)|いきなりVRで進みたい人は、これが良さげ。Oculus Quest, Rift、ViveやValveについての設定から説明がある。ただし英語。
 
 ## その他候補
 
