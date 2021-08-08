@@ -1,5 +1,5 @@
 # Unity Tips
-　Unity使用者によるUnity使用者のためのUnity使用者のためのリポジトリ。
+　Unity使用者のUnity使用者によるUnity使用者のためのリポジトリ。
 
 ## Unityとは
 * 2D,3Dゲームを作るツール
