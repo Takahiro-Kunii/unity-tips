@@ -12,19 +12,19 @@
 
 チュートリアル名|評価
 -|-
-[Create with Code - コードを使ってゲームを作ろう](https://learn.unity.com/course/create-with-code-jp)|Unityのインストール、Assetの使い方、エディタの使い方、スクリプティングを段階的に教えてくれる。
+[Create with Code - コードを使ってゲームを作ろう](https://learn.unity.com/course/create-with-code-jp){:target="_blank"}|Unityのインストール、Assetの使い方、エディタの使い方、スクリプティングを段階的に教えてくれる。
 
 　もうちょい局所的に攻めたい人は以下もあり。
  
 傾向|チュートリアル名|評価
 -|-|-
-映画制作寄り|[リアルタイム 3D アニメーションでストーリーを伝えよう](https://learn.unity.com/course/real-time-animated-storytelling-jp?uv=2019.4)|映画のプリビズ等を手っ取り早く始めたいなら、こちらから始めるのも可。先のチュートリアルからユーザーとの対話方法を省略して、画面表現により力を入れている。こちらもUnityのインストールから始めてくれる。
-VR制作寄り|[Create with VR](https://learn.unity.com/course/create-with-vr)|いきなりVRで進みたい人は、これが良さげ。Oculus Quest, Rift、ViveやValveについての設定から説明がある。ただし英語。
+映画制作寄り|[リアルタイム 3D アニメーションでストーリーを伝えよう](https://learn.unity.com/course/real-time-animated-storytelling-jp?uv=2019.4){:target="_blank"}|映画のプリビズ等を手っ取り早く始めたいなら、こちらから始めるのも可。先のチュートリアルからユーザーとの対話方法を省略して、画面表現により力を入れている。こちらもUnityのインストールから始めてくれる
+VR制作寄り|[Create with VR](https://learn.unity.com/course/create-with-vr){:target="_blank"}|いきなりVRで進みたい人は、これが良さげ。Oculus Quest, Rift、ViveやValveについての設定から説明がある。ただし英語
+操作可能な3D制作寄り|[リアルタイム 3D の基礎](https://learn.unity.com/project/foundations-of-real-time-3d-jp){:target="_blank"}|上記Create with VRからVR要素を省き、よりシンプルな構成になっている
 
 ## その他候補
 
 * [Unity初心者向けチュートリアル集](https://learn.unity.com/course/unity-tutorials-for-beginners-jp)
-* [リアルタイム 3D の基礎](https://learn.unity.com/project/foundations-of-real-time-3d-jp)　雰囲気を掴め。アーティストやゲーム開発者など、インタラクティブな 3D 体験を生み出すクリエイターの必須タスクを紹介
 * [3D インタラクティブ開発入門](https://learn.unity.com/project/3d-intarakuteibukai-fa-ru-men)ユーザーと対話するため基礎情報。UIに限らず画面上の効果等も説明。
 * [FPS Microgame](https://learn.unity.com/project/fps-microgame-1)　FPSシューティングを作る過程が紹介されている。
 * [3D ゴーカートレースの Microgame](https://learn.unity.com/project/karting-microgame)　レーシングゲームを作る過程が紹介されている。
