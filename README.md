@@ -34,6 +34,10 @@ VR制作寄り|[Create with VR](https://learn.unity.com/course/create-with-vr)|�
 [FPS Microgame](https://learn.unity.com/project/fps-microgame-1)　|FPSシューティングを作る過程が紹介されている
 [3D ゴーカートレースの Microgame](https://learn.unity.com/project/karting-microgame)　|レーシングゲームを作る過程が紹介されている
 
+　最後に、Unityを一応使えるようになったが、より使いこなせるようになりたいと思った時に使う機能別にまとめられている学習ポータルサイトはここ
+ 
+* [Learning Unity](https://learning.unity3d.jp)
+
 ## その他
 ### スクリプト
 
@@ -46,8 +50,6 @@ VR制作寄り|[Create with VR](https://learn.unity.com/course/create-with-vr)|�
 
 ### 入門用ではなく局所的な話
 * [FPS Mod：Navigation Mesh の作成](https://learn.unity.com/tutorial/fps-mod-creating-the-navigation-mesh-jp)　日本語でNavMeshを解説。複雑な3D地形で障害物を避けながら自動で移動させる。
-
-* 機能別にまとめられているポータルサイトは[ここ](https://learning.unity3d.jp)
 
 ### 公式以外のサイト
 * [unityでpoint-cloudを表示する方法](https://medium.com/@NegativeMind/unityでpoint-cloudを表示する方法-12a4e24e0718) 何でUnityで点群を扱いたいかというと、お察しの通り、Kinectで取得した点群をカッコよく表示したいのです。
