@@ -10,11 +10,9 @@
 　本家にチュートリアルがある。<br>
 　色々ある中で、Unity未経験者にはこれがおすすめ。
 
-[Create with Code - コードを使ってゲームを作ろう](https://learn.unity.com/course/create-with-code-jp){:target="blank"}
-
 チュートリアル名|評価
 -|-
-<a href="https://learn.unity.com/course/create-with-code-jp" target="_blank">Create with Code - コードを使ってゲームを作ろう</a>|Unityのインストール、Assetの使い方、エディタの使い方、スクリプティングを段階的に教えてくれる。
+[Create with Code - コードを使ってゲームを作ろう](https://learn.unity.com/course/create-with-code-jp)|Unityのインストール、Assetの使い方、エディタの使い方、スクリプティングを段階的に教えてくれる。
 
 　もうちょい局所的に攻めたい人は以下もあり。
  
