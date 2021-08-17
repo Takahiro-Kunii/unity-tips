@@ -18,9 +18,9 @@
  
 傾向|チュートリアル名|評価
 -|-|-
-映画制作寄り|[リアルタイム 3D アニメーションでストーリーを伝えよう](https://learn.unity.com/course/real-time-animated-storytelling-jp?uv=2019.4){:target="_blank"}|映画のプリビズ等を手っ取り早く始めたいなら、こちらから始めるのも可。先のチュートリアルからユーザーとの対話方法を省略して、画面表現により力を入れている。こちらもUnityのインストールから始めてくれる
-VR制作寄り|[Create with VR](https://learn.unity.com/course/create-with-vr){:target="_blank"}|いきなりVRで進みたい人は、これが良さげ。Oculus Quest, Rift、ViveやValveについての設定から説明がある。ただし英語
-操作可能な3D制作寄り|[リアルタイム 3D の基礎](https://learn.unity.com/project/foundations-of-real-time-3d-jp){:target="_blank"}|上記Create with VRからVR要素を省き、よりシンプルな構成になっている
+映画制作寄り|[リアルタイム 3D アニメーションでストーリーを伝えよう](https://learn.unity.com/course/real-time-animated-storytelling-jp?uv=2019.4)|映画のプリビズ等を手っ取り早く始めたいなら、こちらから始めるのも可。先のチュートリアルからユーザーとの対話方法を省略して、画面表現により力を入れている。こちらもUnityのインストールから始めてくれる
+VR制作寄り|[Create with VR](https://learn.unity.com/course/create-with-vr)|いきなりVRで進みたい人は、これが良さげ。Oculus Quest, Rift、ViveやValveについての設定から説明がある。ただし英語
+操作可能な3D制作寄り|[リアルタイム 3D の基礎](https://learn.unity.com/project/foundations-of-real-time-3d-jp)|上記Create with VRからVR要素を省き、よりシンプルな構成になっている
 
 ## その他候補
 
