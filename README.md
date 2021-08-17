@@ -22,23 +22,29 @@
 VR制作寄り|[Create with VR](https://learn.unity.com/course/create-with-vr)|いきなりVRで進みたい人は、これが良さげ。Oculus Quest, Rift、ViveやValveについての設定から説明がある。ただし英語
 操作可能な3D制作寄り|[リアルタイム 3D の基礎](https://learn.unity.com/project/foundations-of-real-time-3d-jp)|上記Create with VRからVR要素を省き、よりシンプルな構成になっている
 
-## その他候補
+ 上記に魅力を感じないなら、以下のチュートリアル集から自分で見つけると良い。
 
 * [Unity初心者向けチュートリアル集](https://learn.unity.com/course/unity-tutorials-for-beginners-jp)
-* [3D インタラクティブ開発入門](https://learn.unity.com/project/3d-intarakuteibukai-fa-ru-men)ユーザーと対話するため基礎情報。UIに限らず画面上の効果等も説明。
-* [FPS Microgame](https://learn.unity.com/project/fps-microgame-1)　FPSシューティングを作る過程が紹介されている。
-* [3D ゴーカートレースの Microgame](https://learn.unity.com/project/karting-microgame)　レーシングゲームを作る過程が紹介されている。
 
-## スクリプト
+　ここは以下のようなチュートリアルの集まり。目次として利用する。
+
+チュートリアル名|評価
+-|-
+[3D インタラクティブ開発入門](https://learn.unity.com/project/3d-intarakuteibukai-fa-ru-men)|ユーザーと対話するため基礎情報。UIに限らず画面上の効果等も説明
+[FPS Microgame](https://learn.unity.com/project/fps-microgame-1)　|FPSシューティングを作る過程が紹介されている
+[3D ゴーカートレースの Microgame](https://learn.unity.com/project/karting-microgame)　|レーシングゲームを作る過程が紹介されている
+
+## その他
+### スクリプト
 
 * [スクリプト入門](https://learn.unity.com/project/beginner-gameplay-scripting-jp)画面上のオブジェクトを制御するには避けられない学習。
 * [中級レベルのスクリプティング](https://learn.unity.com/project/intermediate-gameplay-scripting-jp)ポリモーフィズム、名前空間など。
 
-## 物理演算
+### 物理演算
 * [Unity で物理演算を試してみよう](https://learn.unity.com/project/live-session-exploring-physics-in-unity-jp)
 * [物理演算のベストプラクティス](https://learn.unity.com/tutorial/physics-best-practices-jp#6082cd21edbc2a00202b818c)
 
-## 入門用ではなく局所的な話
+### 入門用ではなく局所的な話
 * [FPS Mod：Navigation Mesh の作成](https://learn.unity.com/tutorial/fps-mod-creating-the-navigation-mesh-jp)　日本語でNavMeshを解説。複雑な3D地形で障害物を避けながら自動で移動させる。
 
 * 機能別にまとめられているポータルサイトは[ここ](https://learning.unity3d.jp)
