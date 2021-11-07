@@ -4,3 +4,4 @@
 * [CustomRenderTexture](https://tips.hecomi.com/entry/2017/05/17/020037)
 * [メッシュを単純化する](https://github.com/Whinarn/UnityMeshSimplifier)
 * [Virtual Camera & Face Capture apps](https://forum.unity.com/threads/virtual-camera-face-capture-apps-details-and-documentation.1111255/)
+* [レイトレース、後半にムービー作成の説明がある](https://learning.unity3d.jp/6346/)
