@@ -28,3 +28,7 @@
 
 
 図は[unity documentation](https://docs.unity3d.com/ja/2021.2/Manual/BestPracticeLightingPipelines.html)より
+
+
+URPシェーダーサンプル
+https://gist.github.com/shivaduke28/b224ebaebf4d70b7bd7ad396ecf2af31
