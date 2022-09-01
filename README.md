@@ -7,6 +7,7 @@
 * Windows向け、Mac向け、Android, iOS向け、色々作れる
 
 ## Unityを学ぶには
+
 　本家にチュートリアルがある。<br>
 　色々ある中で、Unity未経験者にはこれがおすすめ。
 
@@ -51,3 +52,6 @@ VR制作寄り|[Create with VR](https://learn.unity.com/course/create-with-vr)|�
 ### 入門用ではなく局所的な話
 * [FPS Mod：Navigation Mesh の作成](https://learn.unity.com/tutorial/fps-mod-creating-the-navigation-mesh-jp)　日本語でNavMeshを解説。複雑な3D地形で障害物を避けながら自動で移動させる。
 
+### パフォーマンスチューニング
+* [Unity Performance Tuning Bible](https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningBible)
+Unityのパフォーマンスチューニングに関するノウハウを体系的にまとめた書籍
