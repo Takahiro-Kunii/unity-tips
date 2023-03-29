@@ -44,6 +44,7 @@ VR制作寄り|[Create with VR](https://learn.unity.com/course/create-with-vr)|�
 
 * [スクリプト入門](https://learn.unity.com/project/beginner-gameplay-scripting-jp)画面上のオブジェクトを制御するには避けられない学習。
 * [中級レベルのスクリプティング](https://learn.unity.com/project/intermediate-gameplay-scripting-jp)ポリモーフィズム、名前空間など。
+* [イベント順](https://docs.unity3d.com/ja/2019.1/Manual/ExecutionOrder.html)
 
 ### 物理演算
 * [Unity で物理演算を試してみよう](https://learn.unity.com/project/live-session-exploring-physics-in-unity-jp)
